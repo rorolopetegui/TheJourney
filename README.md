@@ -28,11 +28,11 @@ If we have a good flow of CVs incomming/being filtered by our portal,  we can ac
 ## Steps(?)
 - [ :white_check_mark: ] Create a repository
 - [ :white_check_mark: ] Start writing the manifesto
-- [ ] Continue working on this
-- [ ] Create a website
-- [ ] Create a portal
-- [ ] Create board with tasks
-- [ ] Create a roadmap
+- [  ] Continue working on this
+- [  ] Create a website
+- [  ] Create a portal
+- [  ] Create board with tasks
+- [  ] Create a roadmap
 
 ### Values
 - We are all equal
