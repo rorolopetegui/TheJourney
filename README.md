@@ -21,7 +21,7 @@ So 20 partners, means 180k*20 = 3600000 (3.6M, to have a stable rent for each pa
 -3600000 at a 5000 cv means 720 CVs (720 CVs to be sold at 5000 each) If further 720CVs a year per month 60CVs, means 60*12 = 720CVs a year (Can this be achieved?)
 
 -Alternative projects (What if we get some investors, we can take our part here for the cooperative *For everyone, and eat cake) (If we have the talent, like 3 CVs)
-3Cvs at value of 200K proj We could pay the cake in 4, 3 devs plus 1 point for cooperative (50k per project sold)
+3Cvs at value of 200K proj We could split the cake in 4, 3 devs plus 1 point for cooperative (50k per project sold)
 This means how many projects do we need to sell: 3600000/50000 = 72 projects a year (6 projects a month) (Can this be achieved? More? less?)
 
 If we have a good flow of CVs incomming/being filtered by our portal,  we can achieve multiples tactics at once (We can have a good flow of CVs, meaning a good flow of projects, and good CV sold)
@@ -30,7 +30,7 @@ If we have a good flow of CVs incomming/being filtered by our portal,  we can ac
 - [ :white_check_mark: ] Start writing the manifesto
 - [  ] Continue working on this
 - [  ] Create a website
-- [  ] Create a portal
+- [ :white_check_mark: ] Create a portal (In Progress) https://github.com/rorolopetegui/jobportal
 - [  ] Create board with tasks
 - [  ] Create a roadmap
 
@@ -45,6 +45,4 @@ If we have a good flow of CVs incomming/being filtered by our portal,  we can ac
 ## Lectures
 Notes, thoughts, ideas, and more. Also, someone once told that i should read it (You could improve if you read one of these...).
 - [The Art of Community](https://www.youtube.com/watch?v=6v2L2UGZJAM)
-- [The Art of Community 2](https://www.youtube.com/watch?v=UJt8qrkED-U)
-- [The Art of Community 3](https://www.youtube.com/watch?v=0ZvQe8bwgBw)
 - [Joel on Software](https://www.joelonsoftware.com/ "Joel on Software")
